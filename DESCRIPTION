@@ -2,7 +2,7 @@ Package: nscprepr
 Type: Package
 Title: Prepares and Writes Files to Submit to the National Student
         Clearinghouse
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: person("Arie", "Spirgel", email = "spirgel@gmail.com",
   role = c("aut", "cre"))
 Date: 2017-06-08
@@ -14,8 +14,8 @@ Encoding: UTF-8
 LazyData: true
 URL: https://github.com/spirgel/nscprepr
 NeedsCompilation: no
-Packaged: 2017-06-12 17:56:48 UTC; aspirgel
+Packaged: 2017-06-13 22:29:29 UTC; spirgel
 Author: Arie Spirgel [aut, cre]
 Maintainer: Arie Spirgel <spirgel@gmail.com>
 Repository: CRAN
-Date/Publication: 2017-06-12 23:05:36 UTC
+Date/Publication: 2017-06-14 05:44:22 UTC
